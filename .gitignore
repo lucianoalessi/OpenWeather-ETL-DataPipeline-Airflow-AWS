@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# Credentials
+.env
+
+# S3FS credentials or tokens
+.aws/
